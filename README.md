@@ -8,7 +8,7 @@ The project demonstrates strong skills in:
 - Database schema design
 - Relationship building using foreign keys
 - Business-driven analytical thinking
-<br>
+
 ## Dataset Description
 <br>
 The database consists of 4 core tables:
