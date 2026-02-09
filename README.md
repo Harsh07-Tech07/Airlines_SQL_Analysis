@@ -14,7 +14,7 @@ The database consists of 4 core tables:
 <br>
 **1.customer**
 <br>
-<br>Stores customer demographic information.
+Stores customer demographic information.
 - customer_id (PK)
 - first_name
 - last_name
@@ -32,7 +32,7 @@ The database consists of 4 core tables:
 - seat_num
 - class_id
 - flight_num
- <br>
+
 **3.routes**
 Contains flight route information.
 - route_id (PK)
