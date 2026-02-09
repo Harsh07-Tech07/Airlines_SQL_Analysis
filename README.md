@@ -20,6 +20,7 @@ The database consists of 4 core tables:
 - last_name
 - date_of_birth
 - gender
+
 **2.passengers_on_flights**
 <br>
 <br>Captures passenger travel details.
@@ -31,7 +32,7 @@ The database consists of 4 core tables:
 - seat_num
 - class_id
 - flight_num
-- <br>
+ <br>
 **3.routes**
 Contains flight route information.
 - route_id (PK)
