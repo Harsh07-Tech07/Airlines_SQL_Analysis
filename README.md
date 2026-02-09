@@ -13,13 +13,13 @@ The project demonstrates strong skills in:
 The database consists of 4 core tables:
 <br>
 **1.customer**
-Stores customer demographic information.
+<br>Stores customer demographic information.
 - customer_id (PK)
 - first_name
 - last_name
 - date_of_birth
 - gender
-<br>
+
 **2.passengers_on_flights**
 Captures passenger travel details.
 - pof_id (PK)
