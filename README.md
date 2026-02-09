@@ -72,7 +72,7 @@ The database consists of 4 core tables:
 ## Key Insights
 **1.Customer Base Insights**
 - Majority of customers travel occasionally, not frequently.
-- A small % of customers generate a large % of revenue (Pareto effect).
+- A small % of customers generate a large % of revenue.
 - High-value customers mostly prefer Business / Premium classes.
 
 **2.Route Performance Insights**
