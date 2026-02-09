@@ -69,20 +69,47 @@ The database consists of 4 core tables:
 - Built foreign key relationships
 - Enforced data quality using NOT NULL & CHECK constraints
 
+## Key Insights
+**1.Customer Base Insights**
+- Majority of customers travel occasionally, not frequently.
+- A small % of customers generate a large % of revenue (Pareto effect).
+- High-value customers mostly prefer Business / Premium classes.
 
+**2.Route Performance Insights**
+- Few routes contribute disproportionately high revenue.
+- Some routes have high passenger volume but low revenue (pricing problem).
+- Long-distance routes generate higher ticket value, even with fewer passengers.
 
+**3.Pricing & Class Insights**
+- Economy class drives volume, not profit.
+- Business / Premium classes drive profit, not volume.
+- Price per ticket varies significantly by route and aircraft type.
 
+**4.Operational Insights**
+- Certain aircraft types are underutilized.
+- Route–aircraft mismatch observed on low-performing routes
+- Seasonal travel patterns visible via travel_date (peaks & troughs).
 
+## Overall business recommendations
+**1.Customer Strategy**
+- Create loyalty programs for top 10–15% revenue customers.
+- Offer upgrade incentives from Economy to Business class.
+- Personalize offers based on customer class preference.
 
+**2.Route Optimization**
+- Reprice high-demand / low-revenue routes.
+- Reduce frequency or aircraft size on underperforming routes.
+- Increase premium capacity on profitable long-haul routes.
 
+**3.Pricing Strategy**
+- Introduce dynamic pricing based on route demand
+- Bundle services (meals, baggage, priority boarding) on long-haul routes.
+-  Review Economy pricing floor on over-crowded routes.
 
-
-
-
-
-
-
-
+**4.Fleet & Operations**
+- Match aircraft type to route distance and demand.
+- Retire or redeploy underperforming aircraft.
+- Optimize seat configuration (more premium seats on key routes).
 
 
   
