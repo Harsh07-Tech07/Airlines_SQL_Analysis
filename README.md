@@ -14,7 +14,7 @@ The database consists of 4 core tables:
 <br>
 **1.customer**
 <br>
-Stores customer demographic information.
+<br>Stores customer demographic information.
 - customer_id (PK)
 - first_name
 - last_name
@@ -34,16 +34,18 @@ Stores customer demographic information.
 - flight_num
 
 **3.routes**
-Contains flight route information.
+<br>
+<br>Contains flight route information.
 - route_id (PK)
 - flight_num
 - origin_airport
 - destination_airport
 - aircraft_id
 - distance_miles
-<br>
+
 **4.ticket_details**
-  Stores ticket purchase & pricing details.
+<br>
+<br>Stores ticket purchase & pricing details.
   - tkt_id (PK)
   - customer_id (FK)
   - class_id
