@@ -12,6 +12,7 @@ The project demonstrates strong skills in:
 ## Dataset Description
 The database consists of 4 core tables:
 <br>
+<br>
 **1.customer**
 <br>
 <br>Stores customer demographic information.
